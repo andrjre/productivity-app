@@ -1,5 +1,1 @@
-let create = document.getElementById("create");
-
-create.onclick = functiion(){
-    console.log("hello")
-}
+// https://coolors.co/161925-23395b-406e8e-8ea8c3-cbf7ed // 
